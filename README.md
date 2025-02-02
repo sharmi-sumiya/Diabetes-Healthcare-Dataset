@@ -1,4 +1,4 @@
-![https://github.com/sharmi-sumiya/Diabetes-Healthcare-Dataset/blob/77e53cba2e76c5740c39ee97d5386ade630b6941/Diabetes%20healthcare%20Power%20Bi%20Dashboard%20Image.png]
+![image alt](https://github.com/sharmi-sumiya/Diabetes-Healthcare-Dataset/blob/77e53cba2e76c5740c39ee97d5386ade630b6941/Diabetes%20healthcare%20Power%20Bi%20Dashboard%20Image.png)
 
 Welcome to the Diabetes Healthcare Prediction Dataset. This invaluable resource is designed for researchers, data scientists, and healthcare professionals dedicated to advancing diabetes risk assessment. By leveraging this dataset, you will be equipped to explore various health-related variables that are crucial for the early prediction and management of diabetes.
 This dataset serves as a foundation for developing sophisticated predictive models that can identify individuals at risk for diabetes. Through planned associations and innovative approaches within the data science community, we can significantly enhance early diagnosis and pave the way for more personalized treatments.
