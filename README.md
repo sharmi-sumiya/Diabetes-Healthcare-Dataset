@@ -17,7 +17,7 @@ Analysis
 Excel Project
 Power BI dashboard link
 
-_Power BI dashboard Analysis_
+**Power BI dashboard Analysi**
 
 ![image alt](https://github.com/sharmi-sumiya/Diabetes-Healthcare-Dataset/blob/77e53cba2e76c5740c39ee97d5386ade630b6941/Diabetes%20healthcare%20Power%20Bi%20Dashboard%20Image.png)
 
