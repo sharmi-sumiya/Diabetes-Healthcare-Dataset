@@ -36,6 +36,8 @@ These attributes have been selected based on their relevance to diabetes risk an
 
 
 Conclusion
+
+
 This comprehensive dataset includes several key attributes, each playing a crucial role in assessing diabetes risk. These attributes provide a comprehensive view of an individual's health profile, enabling more accurate predictions and better understanding of the factors contributing to diabetes.
 Additionally, data visualization tools like scatter plots, histograms, seaborn and correlation matrices can help to visually explore relationships and trends within the dataset
 By leveraging this dataset with machine learning and data analysis techniques, you can gain valuable insights into the factors that influence diabetes. Your findings could lead to better prediction models, more personalized risk assessments, and, ultimately, more effective strategies for diabetes prevention and management.
