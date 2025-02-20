@@ -1,3 +1,8 @@
+
+![Screenshot 2025-01-29 003053](https://github.com/user-attachments/assets/3f808cf0-28fc-4209-905e-376fc331e6a4)
+
+
+
 Diabetes-Healthcare-Dataset
 
 
