@@ -3,7 +3,7 @@
 
 
 
-Diabetes-Healthcare-Dataset
+**Diabetes-Healthcare-Dataset**
 
 
 This repository can be utilized as a learning project to practice data manipulation, analysis, and visualization techniques using Advanced Excel and Python libraries such as pandas, NumPy, scikit-learn, and matplotlib.
@@ -17,7 +17,7 @@ Analysis
 Excel Project
 Power BI dashboard link
 
-**Power BI dashboard Analysi**
+**Power BI dashboard Analysis**
 
 ![image alt](https://github.com/sharmi-sumiya/Diabetes-Healthcare-Dataset/blob/77e53cba2e76c5740c39ee97d5386ade630b6941/Diabetes%20healthcare%20Power%20Bi%20Dashboard%20Image.png)
 
@@ -41,7 +41,7 @@ The attributes included in this dataset are:
 These attributes have been selected based on their relevance to diabetes risk and are designed to facilitate comprehensive analysis and model development. We hope that this dataset will serve as a foundation for significant advancements in diabetes research and healthcare.
 
 
-Conclusion
+**Conclusion**
 
 
 This comprehensive dataset includes several key attributes, each playing a crucial role in assessing diabetes risk. These attributes provide a comprehensive view of an individual's health profile, enabling more accurate predictions and better understanding of the factors contributing to diabetes.
