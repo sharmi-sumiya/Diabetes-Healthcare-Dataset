@@ -1,9 +1,8 @@
 
 
-
-
-
 # **Diabetes-Healthcare-Dataset**
+
+![image](https://github.com/user-attachments/assets/da5cf94a-a399-4620-9ebf-772a2ee626c9)
 
 
 This repository can be utilized as a learning project to practice data manipulation, analysis, and visualization techniques using Advanced Excel and Python libraries such as pandas, NumPy, scikit-learn, and matplotlib.
